@@ -25,7 +25,7 @@
         $('#contact-form').validator();
         $('#contact-form').on('submit', function(e) {
             if (!e.isDefaultPrevented()) {
-                fetch("http://localhost:3000/", {
+                fetch("https://nodesendmailer.herokuapp.com/", {
                     headers: {
                         'Accept': 'application/json',
                         'Content-Type': 'application/json'
