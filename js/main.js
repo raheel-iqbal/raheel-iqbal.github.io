@@ -28,12 +28,13 @@
                 fetch("https://nodesendmailer.herokuapp.com/", {
                     headers: {
                         'Accept': 'application/json',
-                        'Content-Type': 'application/json'
+                        'Content-Type': 'application/json',
+                        'cache-control': 'no-cache'
                     },
                     method: "POST",
                     body: JSON.stringify({
-                        from: document.getElementById("form_name").value,
-                        name: document.getElementById("form_email").value,
+                        from: document.getElementById("form_email").value,
+                        name: document.getElementById("form_name").value,
                         text: document.getElementById("form_message").value
                     })
                 }).then(function(res){
