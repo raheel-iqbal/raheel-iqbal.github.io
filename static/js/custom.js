@@ -10,9 +10,9 @@
     /* ---------------------------------------------- /*
      * Pre load
     /* ---------------------------------------------- */
-    NAY.PreLoad = function() {
-        document.getElementById("loading").style.display = "none";
-    }
+    // NAY.PreLoad = function() {
+    //     document.getElementById("loading").style.display = "none";
+    // }
 
     /*--------------------
         * Menu Close
