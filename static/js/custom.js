@@ -335,8 +335,8 @@
 
     // Window on Load
     $(window).on("load", function(){
-        NAY.masonry(),
-            NAY.PreLoad();
+        NAY.masonry();
+            // NAY.PreLoad();
     });
     // Document on Ready
     $(document).on("ready", function(){
