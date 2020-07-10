@@ -4,7 +4,10 @@
     <list default="true" id="a4772603-a754-4aa4-b023-8f9a216eed2e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/about-me.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/about-me.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/about-me.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/home-banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/old-home-banner.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +85,9 @@
       <workItem from="1593112455568" duration="1288000" />
       <workItem from="1593184724914" duration="2073000" />
       <workItem from="1593191636800" duration="5860000" />
+      <workItem from="1593282533300" duration="589000" />
+      <workItem from="1593284945094" duration="1855000" />
+      <workItem from="1594396219735" duration="1209000" />
     </task>
     <servers />
   </component>
@@ -102,9 +108,9 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="507" y="186" width="585" height="488" key="find.popup" timestamp="1593208059398">
+    <state x="507" y="186" width="709" height="546" key="find.popup" timestamp="1594396375550">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="507" y="186" width="585" height="488" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1593208059398" />
+    <state x="507" y="186" width="709" height="546" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1594396375550" />
   </component>
 </project>
